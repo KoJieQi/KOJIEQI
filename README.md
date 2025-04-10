@@ -1,14 +1,18 @@
-# KOJIEQI
+# Ko Jie Qi
+## 🔧 Programming Skills:
+- **Languages**: JavaScript, Python, HTML/CSS, PHP, Kotlin, Java, C++
+- **Database**: MySQL, Firebase, Oracle SQL, DBeaver
+
 ## 📊 GitHub Stats  
 [![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=KoJieQi&theme=vue-dark)](https://git.io/streak-stats)  
 
-### 🧑‍💻 Group Project: [Moodly](https://github.com/Lol8005/iBanana.git)  
+### 🧑‍💻 Group Project: [Moodly](https://github.com/leequanjin/Moodly.git)  
 Worked as a team of 4 to develop Moodly, a journalling mobile app. Using Firebase to store dara. Achieved TV Hackathon Final Competition 2024 - 1st Runner Up.  
 Programming Language: Kotlin  
 **My role:** Journal Page. (Frontend and Backend Development)  
   
-🔗 Repository: https://github.com/Lol8005/iBanana.git  
-🔁 Forked Version: https://github.com/KoJieQi/iBanana.git  
+🔗 Repository: https://github.com/leequanjin/Moodly.git
+🔁 Forked Version: https://github.com/KoJieQi/Moodly.git 
 
 ### 🧑‍💻 Group Project: [iBanana](https://github.com/Lol8005/iBanana.git)  
 Collaborated with Saw Khoo Zi Chong to develop iBanana, chatbot.  
