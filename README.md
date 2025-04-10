@@ -35,7 +35,7 @@ Worked as a team of 4 to develop SupportX, a donation system. Using text files t
 Programming Language: Java   
 **My role:** Donation Management Subsystem.
 
-🔗 Repository: https://github.com/Lol8005/SupportX.git
+🔗 Repository: https://github.com/Lol8005/SupportX.git  
 🔁 Forked Version: https://github.com/KoJieQi/SupportX.git
 
 ### 🧑‍💻 Group Project: [DASH Point Reward System](https://github.com/Lol8005/DASHPointRewardSystem.git)  
