@@ -1,6 +1,10 @@
 # KOJIEQI-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KoJieQi)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoJieQi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoJieQi&hide_progress=true)
+
 ### 🧑‍💻 Group Project: [iBanana](https://github.com/Lol8005/iBanana.git)
 Collaborated with Saw Khoo Zi Chong to develop iBanana, chatbot.
 
