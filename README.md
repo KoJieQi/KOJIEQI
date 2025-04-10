@@ -15,7 +15,7 @@ Programming Language: Python, PHP, CSS, JavaScript
 ### 🧑‍💻 Group Project: [The Banana](https://github.com/Lol8005/TheBanana.git)  
 Collaborated with Saw Khoo Zi Chong and Edwina Hon Kai Xin to develop The Banana, a education mobile app.  
 Programming Language: Kotlin  
-**My role:** UI/UX design, Chatbot using KNN.  
+**My role:** Home Page, Study Timer with Music Player Page, Leaderboard Page (Frontend and Backend)
 
 🔗 Repository: https://github.com/Lol8005/TheBanana.git  
 🔁 Forked Version: https://github.com/KoJieQi/TheBanana.git  
