@@ -4,5 +4,5 @@
 ### 🧑‍💻 Group Project: [iBanana](https://github.com/Lol8005/iBanana.git)
 Collaborated with Saw Khoo Zi Chong to develop iBanana, chatbot.
 
-🔗 Repository: [Original Link](https://github.com/Lol8005/iBanana.git)  
-🔁 Forked Version: [Your Fork](https://github.com/KoJieQi/iBanana.git)
+🔗 Repository: https://github.com/Lol8005/iBanana.git  
+🔁 Forked Version: https://github.com/KoJieQi/iBanana.git
