@@ -3,9 +3,9 @@
 [![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=KoJieQi&theme=vue-dark)](https://git.io/streak-stats)  
 
 ### 🧑‍💻 Group Project: [Moodly](https://github.com/Lol8005/iBanana.git)  
-Worked as a team of 4 to develop Moodly, a journalling mobile app. Achieved TV Hackathon Final Competition 2024 - 1st Runner Up.  
+Worked as a team of 4 to develop Moodly, a journalling mobile app. Using Firebase to store dara. Achieved TV Hackathon Final Competition 2024 - 1st Runner Up.  
 Programming Language: Kotlin  
-**My role:** UI/UX design, Chatbot using KNN.  
+**My role:** Journal Page. (Frontend and Backend Development)  
   
 🔗 Repository: https://github.com/Lol8005/iBanana.git  
 🔁 Forked Version: https://github.com/KoJieQi/iBanana.git  
