@@ -5,17 +5,17 @@
 
 
 ### 🧑‍💻 Group Project: [iBanana](https://github.com/Lol8005/iBanana.git)
-Collaborated with Saw Khoo Zi Chong to develop iBanana, chatbot.
-Programming Language: Python, PHP, CSS, JavaScript
-**My role:** UI/UX design, Chatbot using KNN.
+Collaborated with Saw Khoo Zi Chong to develop iBanana, chatbot.  
+Programming Language: Python, PHP, CSS, JavaScript  
+**My role:** UI/UX design, Chatbot using KNN.  
+  
+🔗 Repository: https://github.com/Lol8005/iBanana.git  
+🔁 Forked Version: https://github.com/KoJieQi/iBanana.git  
 
-🔗 Repository: https://github.com/Lol8005/iBanana.git
-🔁 Forked Version: https://github.com/KoJieQi/iBanana.git
+### 🧑‍💻 Group Project: [The Banana](https://github.com/Lol8005/TheBanana.git)  
+Collaborated with Saw Khoo Zi Chong and Edwina Hon Kai Xin to develop The Banana, a education mobile app.  
+Programming Language: Kotlin  
+**My role:** UI/UX design, Chatbot using KNN.  
 
-### 🧑‍💻 Group Project: [The Banana](https://github.com/Lol8005/TheBanana.git)
-Collaborated with Saw Khoo Zi Chong and Edwina Hon Kai Xin to develop The Banana, a education mobile app.
-Programming Language: Kotlin
-**My role:** UI/UX design, Chatbot using KNN.
-
-🔗 Repository: https://github.com/Lol8005/TheBanana.git
-🔁 Forked Version: https://github.com/KoJieQi/TheBanana.git
+🔗 Repository: https://github.com/Lol8005/TheBanana.git  
+🔁 Forked Version: https://github.com/KoJieQi/TheBanana.git  
