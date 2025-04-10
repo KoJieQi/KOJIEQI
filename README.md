@@ -1,7 +1,7 @@
 # Ko Jie Qi
 ## 🔧 Programming Skills:
 - **Languages**: JavaScript, Python, HTML/CSS, PHP, Kotlin, Java, C++
-- **Database**: MySQL, Firebase, Oracle SQL, DBeaver
+- **Database**: MySQL, Firebase, Oracle SQL
 
 ## 📊 GitHub Stats  
 [![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=KoJieQi&theme=vue-dark)](https://git.io/streak-stats)  
@@ -39,7 +39,7 @@ Programming Language: Java
 🔁 Forked Version: https://github.com/KoJieQi/SupportX.git
 
 ### 🧑‍💻 Group Project: [DASH Point Reward System](https://github.com/Lol8005/DASHPointRewardSystem.git)  
-Worked as a team of 4 to develop DASH Point Reward System. Using DBeaver for data storage tools.  
+Worked as a team of 4 to develop DASH Point Reward System. Using DBeaver (MySQL) for data storage tools.  
 Programming Language: Java, SQL Query  
 **My role:** Record Module, Point Redemption Module and Event Room Reservation Module Development. For database, I am in charge of populating data and database design. 
 
