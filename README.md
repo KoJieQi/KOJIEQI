@@ -1,5 +1,4 @@
 # KOJIEQI-
-My profile
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KoJieQi)](https://git.io/streak-stats)
 
 ### 🧑‍💻 Group Project: [iBanana](https://github.com/Lol8005/iBanana.git)
