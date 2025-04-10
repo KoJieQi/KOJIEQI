@@ -5,6 +5,7 @@
 
 ## 📊 GitHub Stats  
 [![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=KoJieQi&theme=vue-dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats-lyart-zeta-54.vercel.app/api/top-langs/?username=Lol8005&layout=donut&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧑‍💻 Group Project: [Moodly](https://github.com/leequanjin/Moodly.git)  
 Worked as a team of 4 to develop Moodly, a journalling mobile app. Using Firebase to store dara. Achieved TV Hackathon Final Competition 2024 - 1st Runner Up.  
