@@ -11,7 +11,7 @@ Worked as a team of 4 to develop Moodly, a journalling mobile app. Using Firebas
 Programming Language: Kotlin  
 **My role:** Journal Page. (Frontend and Backend Development)  
   
-🔗 Repository: https://github.com/leequanjin/Moodly.git
+🔗 Repository: https://github.com/leequanjin/Moodly.git  
 🔁 Forked Version: https://github.com/KoJieQi/Moodly.git 
 
 ### 🧑‍💻 Group Project: [iBanana](https://github.com/Lol8005/iBanana.git)  
